@@ -1,6 +1,6 @@
 # GitHub Actions for Firebase
 
-This Action for [firebase-tools](https://github.com/firebase/firebase-tools) enables arbitrary actions with the `firebase` command-line client. This is a fork of the original, which I created because Alpine Linux wanted to be a PITA. I will edit this whenever I want to trigger the CI/CD.
+This Action for [firebase-tools](https://github.com/firebase/firebase-tools) enables arbitrary actions with the `firebase` command-line client. This is a fork of the original, which I created because Alpine Linux wanted to be a PITA. I will edit this whenever I want to trigger the CI/CD. Foo.
 
 ## Inputs
 
