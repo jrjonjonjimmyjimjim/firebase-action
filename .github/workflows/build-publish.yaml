@@ -15,7 +15,7 @@ jobs:
       - name: docker/build-push
         uses: docker/build-push-action@v1
         with:
-          username: jrjonjonjimmyjimjim
+          username: jrrobel
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: jrjonjonjimmyjimjim/firebase-action
           tags: latest
